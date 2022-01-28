@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Symuhmd
 - 👀 I’m interested front end web development
 - 🌱 I’m currently learning on developing video games and mobile apps
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on develop apps or web
 - 📫 reach me by email to 
 sinyadal114@gmail.com
 
