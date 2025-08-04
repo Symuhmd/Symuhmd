@@ -25,9 +25,8 @@
 ---
 
 ### 📌 Featured Projects
-- 🎮 [Shifted Night](https://github.com/symocolon/shifted-night) – *Psychological horror game where you play as a security guard with disturbing shifts*
-- 🧠 [C++ Logic Learning Game](https://github.com/symocolon/cpp-logic-game) – *Educational game teaching logic gates using visual scripting*
-- 🛍️ [Mart Manager](https://github.com/symocolon/mart-manager) – *Simple inventory manager with item distribution logic*
+- 🎮 [Beneath The Piles]([https://symocolon.itch.io/beneath-the-pile]) – *A fast-paced 2D top-down shooter where you survive endless waves of enemies. Features pixel art style, responsive controls, and intense combat action*
+- 🛍️ [Run The Cart]([https://symocolon.itch.io/run-the-cart]) – *A casual simulation game where you race against time while managing a cart. Challenge your coordination and speed in this simple yet addictive gameplay loop*
 
 ---
 
@@ -38,9 +37,8 @@
 ---
 
 ### 📫 Get in Touch
-- 🐦 Twitter: [@symocolon](https://twitter.com/symocolon)
-- 💼 LinkedIn: [Syed Muhammad](https://linkedin.com/in/your-link)
-- 🌐 Portfolio: [symocolon.dev](https://symocolon.dev) *(if available)*
+- 💼 LinkedIn: [Syed Muhammad](https://www.linkedin.com/in/syed-muhammad-syed-najib-507916229?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 🌐 Portfolio: [symocolon.dev](https://symuhmd.github.io/Imsyed.github.io/) 
 
 ---
 
