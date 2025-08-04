@@ -33,7 +33,7 @@
 
 ### 📫 Get in Touch
 - 💼 LinkedIn: [Syed Muhammad](https://www.linkedin.com/in/syed-muhammad-syed-najib-507916229?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- 🌐 Portfolio: [symocolon.dev](https://symuhmd.github.io/Imsyed.github.io/) 
+- 🌐 Portfolio: [Imsyed](https://symuhmd.github.io/Imsyed.github.io/) 
 
 ---
 
