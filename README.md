@@ -25,8 +25,8 @@
 ---
 
 ### 📌 Featured Projects
-- 🎮 [Beneath The Piles]([https://symocolon.itch.io/beneath-the-pile]) – *A fast-paced 2D top-down shooter where you survive endless waves of enemies. Features pixel art style, responsive controls, and intense combat action*
-- 🛍️ [Run The Cart]([https://symocolon.itch.io/run-the-cart]) – *A casual simulation game where you race against time while managing a cart. Challenge your coordination and speed in this simple yet addictive gameplay loop*
+- 🎮 [Beneath The Piles](https://symocolon.itch.io/beneath-the-pile) – *A fast-paced 2D top-down shooter where you survive endless waves of enemies. Features pixel art style, responsive controls, and intense combat action*
+- 🛍️ [Run The Cart](https://symocolon.itch.io/run-the-cart) – *A casual simulation game where you race against time while managing a cart. Challenge your coordination and speed in this simple yet addictive gameplay loop*
 
 
 ---
