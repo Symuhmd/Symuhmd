@@ -28,11 +28,6 @@
 - 🎮 [Beneath The Piles]([https://symocolon.itch.io/beneath-the-pile]) – *A fast-paced 2D top-down shooter where you survive endless waves of enemies. Features pixel art style, responsive controls, and intense combat action*
 - 🛍️ [Run The Cart]([https://symocolon.itch.io/run-the-cart]) – *A casual simulation game where you race against time while managing a cart. Challenge your coordination and speed in this simple yet addictive gameplay loop*
 
----
-
-### 📈 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=symocolon&layout=compact&theme=tokyonight)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=symocolon&show_icons=true&theme=tokyonight)
 
 ---
 
