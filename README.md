@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning on developing video games and mobile apps
 - 💞️ I’m looking to collaborate on develop apps or web
 - 📫 reach me by email to 
-sinyadal114@gmail.com
+  symuhmmd114@gmail.com
 
 <!---
 Symuhmd/Symuhmd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
